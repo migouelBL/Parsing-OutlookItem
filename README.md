@@ -1,8 +1,8 @@
 # Parsing-OutlookItem
 By Migouel
 
-Getting text values with an Email
-Proof of concept
+Getting text values with an Email - Proof of concept
+
 Word:
 
 ![Settings Window](https://raw.github.com/migouelBL/Parsing-OutlookItem/master/Screenshots/Init.png)
